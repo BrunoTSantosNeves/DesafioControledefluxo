@@ -25,12 +25,12 @@ O projeto segue boas práticas de programação, incluindo o uso de **exceções
 ## 📂 Estrutura do Projeto
 
 ```
-ContadorNumeros
+DesafioControleFluxo
 ├── src
 │   ├── 
 │   │  ├── java
 │   │  │   ├── Contador.java  # Classe principal com a lógica de contagem
-│   │  │   ├── ParametrosInvalidosException.java  # Exceção personalizada
+│   │  │   
 ├── README.md  # Documentação do projeto
 ```
 
